@@ -12,3 +12,5 @@ conda activate <env_name>
 
 5. Testing on the object detection
 python main.py
+
+Enjoy your Darknet YOLO object detection!
