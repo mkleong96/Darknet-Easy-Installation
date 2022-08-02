@@ -4,7 +4,7 @@ make sure anaconda is installed
 ## create new environment using environment.yaml with following command.
 conda env create -n <env_name> -f environment.yaml
 
-## download all the required DLL from google drive below.
+## download all the required DLL from google drive below and put in current folder.
 https://drive.google.com/drive/folders/1HimwhHXfF9Fe4R-0t26Nj0zz-TWz82Za
 
 ## activate the environment created.
