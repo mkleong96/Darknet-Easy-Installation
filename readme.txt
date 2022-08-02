@@ -1,10 +1,14 @@
-create new environment using environment.yaml
-## conda env create -n <env_name> -f environment.yaml
+## first step.
+make sure anaconda is installed
 
-if manual install cuda
-### add zlibwapi.dll into env path
+## create new environment using environment.yaml with following command.
+conda env create -n <env_name> -f environment.yaml
 
-if anaconda install cuda
-### conda install -c nvidia/label/cuda-11.3.1 cuda
-### conda install -c anaconda cudnn
-### install microsoft visual retribution , just in case
+## download all the required DLL from google drive below.
+https://drive.google.com/drive/folders/1HimwhHXfF9Fe4R-0t26Nj0zz-TWz82Za
+
+## activate the environment created.
+conda activate <env_name>
+
+## testing on the object detection
+python main.py
