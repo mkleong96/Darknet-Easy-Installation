@@ -7,9 +7,9 @@ conda env create -n <env_name> -f environment.yaml
 3. Download all the required DLL from google drive below and put all of them to current folder.
 https://drive.google.com/drive/folders/1HimwhHXfF9Fe4R-0t26Nj0zz-TWz82Za
 - Darknet-Easy-Installation\
-  - data
-  - cfg
-  - sample
+  - data\
+  - cfg\
+  - sample\
   - darknet.py
   - environment.yaml
   - main.py
