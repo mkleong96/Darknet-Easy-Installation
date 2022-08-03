@@ -14,3 +14,5 @@ conda activate <env_name>
 python main.py
 
 Enjoy your Darknet YOLO object detection!
+
+## If cuda error, please update your geforce driver
