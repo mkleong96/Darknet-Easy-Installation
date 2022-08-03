@@ -9,13 +9,14 @@ https://drive.google.com/drive/folders/1HimwhHXfF9Fe4R-0t26Nj0zz-TWz82Za
 - Darknet-Easy-Installation\
   - data\
   - cfg\
-  - sample\
+  - image\
   - darknet.py
   - environment.yaml
   - main.py
   - readme.txt
   - cudnn_adv_infer64_8.dll
-  - ...
+  - cudnn_adv_train64_8.dll
+  - ..
 
 4. Activate the environment created.
 cd to folder path
