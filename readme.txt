@@ -1,3 +1,4 @@
+<b>For inferencing<\b>
 1. First step.
 make sure anaconda and python > 3.8 is installed
 
