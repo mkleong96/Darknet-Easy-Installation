@@ -12,6 +12,7 @@ https://drive.google.com/drive/folders/1HimwhHXfF9Fe4R-0t26Nj0zz-TWz82Za
   - data\
   - cfg\
   - image\
+  - training\
   - darknet.py
   - environment.yaml
   - main.py
@@ -35,7 +36,24 @@ https://drive.google.com/drive/folders/1BPMs6rr0uEXY6Q_DrlUJ9uZIhtKVB1H_
 
 - C:\\
   - darknet-master
+  
+2. Please download the pre-trained model yolov4.conv.137 from link below and put in data folder:
+https://drive.google.com/drive/folders/1Ikti48wHULfJ-Rfi4s6_Ibf68PUJQfyZ
 
-2. test the model training using following command:
+- training\
+ - data\
+  - anchors\
+  - code.txt
+  - obj.data
+  - obj.names
+  - test.txt
+  - train.txt
+  - yolov3_custom.cfg
+  - yolov4.conv.137
+
+3. test the model training using following command:
+cd to folder path
+python main_train.py
+
 
 ## If cuda error, please update your geforce driver to the latest version
