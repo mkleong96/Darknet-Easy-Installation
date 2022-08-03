@@ -1,0 +1,1 @@
+C:/darknet-master/darknet.exe detector train "C:/Users/MK Leong/Desktop/test/data/"obj.data "C:/Users/MK Leong/Desktop/test/data/"yolov4-obj.cfg "C:/Users/MK Leong/Desktop/test/data/"yolov4.conv.137
