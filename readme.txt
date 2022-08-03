@@ -22,6 +22,7 @@ https://drive.google.com/drive/folders/1HimwhHXfF9Fe4R-0t26Nj0zz-TWz82Za
   - ..
 
 4. Activate the environment created.
+activate your environment with cuda installed
 conda activate <env_name>
 cd to folder path
 
@@ -52,6 +53,8 @@ https://drive.google.com/drive/folders/1Ikti48wHULfJ-Rfi4s6_Ibf68PUJQfyZ
   - yolov4.conv.137
 
 3. test the model training using following command:
+activate your environment with cuda installed
+conda activate <env_name>
 cd to folder path
 python main_train.py
 
