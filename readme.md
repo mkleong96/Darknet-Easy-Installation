@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1HimwhHXfF9Fe4R-0t26Nj0zz-TWz82Za
   - readme.txt
   - cudnn_adv_infer64_8.dll
   - cudnn_adv_train64_8.dll
-  - ..
+  - ...
 
 4. Activate the environment created.
 activate your environment with cuda installed
@@ -42,15 +42,15 @@ https://drive.google.com/drive/folders/1BPMs6rr0uEXY6Q_DrlUJ9uZIhtKVB1H_
 https://drive.google.com/drive/folders/1Ikti48wHULfJ-Rfi4s6_Ibf68PUJQfyZ
 
 - training\
- - data\
-  - anchors\
-  - code.txt
-  - obj.data
-  - obj.names
-  - test.txt
-  - train.txt
-  - yolov3_custom.cfg
-  - yolov4.conv.137
+  - data\
+    - anchors\
+    - code.txt
+    - obj.data
+    - obj.names
+    - test.txt
+    - train.txt
+    - yolov3_custom.cfg
+    - yolov4.conv.137
 
 3. test the model training using following command:
 activate your environment with cuda installed
