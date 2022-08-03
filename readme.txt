@@ -1,4 +1,5 @@
-<b>For inferencing<\b>
+# For Inferencing:
+
 1. First step.
 make sure anaconda and python > 3.8 is installed
 
@@ -27,5 +28,14 @@ cd to folder path
 python main.py
 
 Enjoy your Darknet YOLO object detection!
+
+# For model training:
+1. Please download the darknet-master.rar from the link below, extract and put in C-drive:
+https://drive.google.com/drive/folders/1BPMs6rr0uEXY6Q_DrlUJ9uZIhtKVB1H_
+
+- C:\\
+  - darknet-master
+
+2. test the model training using following command:
 
 ## If cuda error, please update your geforce driver to the latest version
