@@ -55,5 +55,9 @@ https://drive.google.com/drive/folders/1Ikti48wHULfJ-Rfi4s6_Ibf68PUJQfyZ
 cd to folder path
 python main_train.py
 
+4. prepare the dataset according to guidance of AlexeyAb:
+https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects
+
+Enjoy training your own custom object detection!
 
 ## If cuda error, please update your geforce driver to the latest version
