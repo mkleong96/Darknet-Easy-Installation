@@ -33,13 +33,13 @@ Enjoy your Darknet YOLO object detection!
 
 # For model training:
 1. Please download the darknet-master.rar from the link below, extract and put in C-drive:
-https://drive.google.com/drive/folders/1BPMs6rr0uEXY6Q_DrlUJ9uZIhtKVB1H_
+https://drive.google.com/drive/folders/1BPMs6rr0uEXY6Q_DrlUJ9uZIhtKVB1H_?usp=sharing
 
 - C:\\
   - darknet-master
   
 2. Please download the pre-trained model yolov4.conv.137 from link below and put in data folder:
-https://drive.google.com/drive/folders/1Ikti48wHULfJ-Rfi4s6_Ibf68PUJQfyZ
+https://drive.google.com/drive/folders/1Ikti48wHULfJ-Rfi4s6_Ibf68PUJQfyZ?usp=sharing
 
 - training\
   - data\
