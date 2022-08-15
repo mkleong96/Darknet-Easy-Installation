@@ -69,4 +69,4 @@ https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects
 
 Enjoy training your own custom object detection!
 
-## If cuda error, please update your geforce driver to the latest version
+#If cuda error, please update your geforce driver to the latest version
