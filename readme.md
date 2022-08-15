@@ -4,7 +4,9 @@
 make sure anaconda and python > 3.8 is installed
 
 2. Create new environment using environment.yaml with following command.
+````bash
 conda env create -n <env_name> -f environment.yaml
+````
 
 3. Download all the required DLL from google drive below and put all of them to current folder as below.
 https://drive.google.com/drive/folders/1HimwhHXfF9Fe4R-0t26Nj0zz-TWz82Za
@@ -54,9 +56,11 @@ https://drive.google.com/drive/folders/1Ikti48wHULfJ-Rfi4s6_Ibf68PUJQfyZ?usp=sha
 
 3. test the model training using following command:
 activate your environment with cuda installed
+````bash
 conda activate <env_name>
 cd to folder path
 python main_train.py
+````
 
 4. prepare the dataset according to guidance of AlexeyAb:
 https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects
