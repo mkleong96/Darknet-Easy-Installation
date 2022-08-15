@@ -25,8 +25,10 @@ https://drive.google.com/drive/folders/1HimwhHXfF9Fe4R-0t26Nj0zz-TWz82Za
 
 4. Activate the environment created.
 activate your environment with cuda installed
+````bash
 conda activate <env_name>
 cd to folder path
+````
 
 5. Testing on the object detection
 python main.py
